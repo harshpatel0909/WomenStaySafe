@@ -1,0 +1,137 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/drawable-v24/cursor_color.xml" value="0.1935" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/drawable/autocomplete_dropdown.xml" value="0.1935" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/drawable/background_panic.xml" value="0.1935" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/drawable/border_input.xml" value="0.1935" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.1935" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/drawable/contact_selector.xml" value="0.1935" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/drawable/file_selector.xml" value="0.1935" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/drawable/ic_add.xml" value="0.1265" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/drawable/otpview_custom.xml" value="0.1935" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/drawable/profile_selector.xml" value="0.1565" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/drawable/start_pause_btn.xml" value="0.1935" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/drawable/text_selector_bnv.xml" value="0.1935" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_add_number.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_audio.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_change_password.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_confirm_account.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_home_screen.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_image_picker.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_location_tracking.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_location_tracking_share.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_login_option.xml" value="0.19166666666666668" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_my_contacts.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_notifications.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_reset_password.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_send_location.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_sign_up.xml" value="0.24615384615384617" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_splash_screen.xml" value="0.19166666666666668" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/activity_terms_and_conditions.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/audio_data_layout.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/bottom_sheet_calling_police.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/bottom_sheet_layout_file_success.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/contact_item_layout.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/content_main.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/demo.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/fragment_audio.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/fragment_blank.xml" value="0.17407407407407408" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/fragment_contacts.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/fragment_files.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/fragment_video.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/gender_dropdown_item.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/panic_custom_dialog.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/practise.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/user_data_layout.xml" value="0.264" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/layout/video_data_layout.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1648148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHome/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.162" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable-v24/cursor_color.xml" value="0.1245" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/autocomplete_dropdown.xml" value="0.152" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/background_panic.xml" value="0.152" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/border_input.xml" value="0.162" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/border_iv_audiovideo.xml" value="0.18" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/border_play_pause.xml" value="0.18" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.119" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/contact_selector.xml" value="0.146" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/custom_input.xml" value="0.162" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/file_selector.xml" value="0.146" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/home_selector.xml" value="0.146" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/ic_add.xml" value="0.2555" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/ic_gender.xml" value="0.1675" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1545" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/ic_panic.xml" value="0.1495" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/otpview_custom.xml" value="0.1665" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/profile_selector.xml" value="0.146" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/show_password_selector.xml" value="0.1" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/start_pause_btn.xml" value="0.119" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/drawable/text_selector_bnv.xml" value="0.1895" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_add_number.xml" value="0.24615384615384617" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_audio.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_change_password.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_confirm_account.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_empty.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_home_screen.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_location_tracking.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_location_tracking_share.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_login_option.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_my_contacts.xml" value="0.2" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_notifications.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_reset_password.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_send_location.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_splash_screen.xml" value="0.20277777777777778" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/activity_terms_and_conditions.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/audio_data_layout.xml" value="0.4" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/bottom_sheet_calling_police.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/bottom_sheet_layout_file_success.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/contact_item_layout.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/contacts.xml" value="0.264" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/contactss2.xml" value="0.23148148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/containt_main.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/fragment_audio.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/fragment_contacts.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/fragment_files.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/fragment_video.xml" value="0.2359375" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/gender_dropdown_item.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/item_layout.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/panic_custom_dialog.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/practise.xml" value="0.264" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/practise2.xml" value="0.18796296296296297" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/recycle_row.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/task_item.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/user.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/user_data_layout.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/layout/video_data_layout.xml" value="0.23148148148148148" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/menu/menu_main.xml" value="0.2" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1545" />
+        <entry key="..\:/Install/AndroidStudioProjects/SaveHomee/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1545" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

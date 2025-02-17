@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navHome"
+        android:icon="@drawable/home_selector"
+        android:title="@string/home_bnv" />
+
+    <item
+        android:id="@+id/navFiles"
+        android:icon="@drawable/file_selector"
+        android:title="@string/files_bnv" />
+
+    <item
+        android:id="@+id/textinput_placeholder"
+        android:enabled="false"
+        android:title="" />
+
+    <item
+        android:id="@+id/navContacts"
+        android:icon="@drawable/contact_selector"
+        android:title="@string/contacts_bnv" />
+
+    <item
+        android:id="@+id/navProfile"
+        android:icon="@drawable/profile_selector"
+        android:title="@string/profile_bnv" />
+
+</menu>

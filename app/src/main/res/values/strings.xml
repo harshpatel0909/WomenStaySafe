@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">SaveHome</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or_login_with">Or login with</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="continue_with_apple">Continue with Apple</string>
+    <string name="sign_in_login_tab">Sign In</string>
+    <string name="email_user_name_Login">Email / User Name</string>
+    <string name="forgot_password_Login">Forgot Password?</string>
+    <string name="password_hint">Password</string>
+    <string name="imageview">Imageview</string>
+    <string name="login_btn">Login</string>
+    <string name="forgot_password_Tb">Forgot Password</string>
+    <string name="email_forgot">Email</string>
+    <string name="send_btn">Send</string>
+    <string name="enter_your_email_address_below_and">Enter your email address below and</string>
+    <string name="we_will_send_you_a_reset_link">we will send you a reset link</string>
+    <string name="confirm_account_Tb">Confirm Account</string>
+    <string name="we_ll_sent_an_email_with_4_digit_code">We\'ll sent an email with 4-digit code</string>
+    <string name="to_loremipsun_mail_com">to loremipsun@mail.com</string>
+    <string name="email_sign_up">Email</string>
+    <string name="sign_up_toolbar">Sign Up</string>
+    <string name="terms_amp_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="hello"> Quisque condimentum sapien ac felis sodales, aliquam faucibus ligula tempus. Sed fermentum tortor nec nibh interdum, eget varius tellus semper. Suspendisse est turpis, pretium hendrerit blandit eget, ullamcorper ut felis. Morbi ligula libero, malesuada et hendrerit eget, ornare sit amet nunc. Proin leo sem, congue id maximus sed, volutpat non lacus. Donec id aliquam ipsum. Vivamus at metus nec massa ornare lobortis. Phasellus quis rutrum nisi, a tempor turpis. Sed varius finibus ex at laoreet. Proin vestibulum vulputate sodales. Donec euismod ex quis vehicula molestie. Pellentesque accumsan mi interdum placerat gravida.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt leo quis turpis sagittis vestibulum vel ut neque. Fusce eu condimentum justo. Aenean vitae efficitur orci. Praesent erat mi, malesuada vel metus vitae, viverra condimentum dui. Quisque ultrices justo vel porttitor rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam erat volutpat. Nunc libero lectus, feugiat vel elementum sit amet, porta vitae arcu. Donec mollis nec augue vitae suscipit. Fusce posuere pretium dui, nec tincidunt urna efficitur et. Nam fermentum ut est quis egestas. Nullam nec euismod lorem, at pretium lectus. Vestibulum cursus, urna ac fermentum cursus, mi tellus mollis quam, eu posuere felis elit sit amet odio. Praesent tristique metus eget nisl pellentesque.
+                    Maecenas dictum elit justo, eget placerat mauris lacinia eu. Suspendisse potenti. Donec eu magna luctus, bibendum leo at, placerat libero. Integer commodo justo dolor, sit amet semper diam vehicula sed. Cras eget augue eget felis tempus dignissim sit amet at turpis. Pellentesque imperdiet nunc vitae commodo vulputate. Curabitur vel nibh tempor, elementum justo nec, feugiat risus. Vestibulum luctus, risus nec fermentum mattis, arcu elit imperdiet arcu, vel porttitor diam nulla non odio. Curabitur hendrerit rutrum enim, in malesuada lorem fringilla eu. Proin eu euismod velit. Fusce id laoreet libero, in varius leo. Donec augue lorem, auctor at ipsum a, viverra ornare dolor. Integer eu enim pellentesque, fringilla diam vel, tempus ligula. Fusce vestibulum id neque id condimentum. Mauris consequat fermentum facilisis. Praesent ultrices suscipit nulla, ut pellentesque libero faucibus non.ellentesque vel lorem vel ante aliquam sodales. Donec consequat hendrerit eleifend. Maecenas mattis eget nunc et dignissim. Donec nec sollicitudin nunc, id pharetra nisi. Nam nisi quam, vestibulum in tempus sit amet, accumsan in nisi. Suspendisse sit amet dui quam. Nulla lacinia augue rhoncus ex mollis, in venenatis dui posuere. Sed efficitur nibh orci. Aenean sit amet nulla id sem sollicitudin euismod. Duis tincidunt, neque eu mattis viverra, lacus tortor interdum diam, et mattis dolor metus bibendum neque.
+                    Fusce tristique lorem purus. In at sapien blandit, accumsan erat nec, accumsan nulla. Nam vitae lacus ultricies, lobortis arcu nec, molestie tortor. Suspendisse bibendum pellentesque tellus, sit amet ultricies quam tempor quis. Quisque convallis mauris non scelerisque mollis. Aliquam pretium, justo sed bibendum convallis, tellus nisl porta tellus, feugiat molestie massa risus quis leo. Phasellus ut molestie lectus. In tellus massa, volutpat ut risus vitae, porttitor consectetur arcu. Praesent porttitor ullamcorper bibendum. Curabitur vel finibus ex. Nam pretium nisl magna.</string>
+    <string name="userprofileIV">userProfile</string>
+    <string name="user_name_signUp">User name</string>
+    <string name="gender_selection">Gender</string>
+    <string name="confirm_password_SignUp">Confirm Password</string>
+    <string name="by_continuing_you_agree_to_our">By continuing, you agree to our</string>
+    <string name="terms_and_conditions_SignUp">Terms and conditions</string>
+    <string name="reset_password_Tb">Reset Password</string>
+    <string name="new_password_Reset">New Password</string>
+    <string name="confirm_password_etReset">Confirm Password</string>
+    <string name="resetButton">Reset</string>
+    <string name="_1234">1234</string>
+    <string name="confirm_btn">Confirm</string>
+    <string name="don_t_get_code_tv">Don\'t get code?</string>
+    <string name="resend_tv">Resend</string>
+    <string name="tex">Quisque condimentum sapien ac felis sodales, aliquam faucibus ligula tempus. Sed fermentum tortor nec nibh interdum, eget varius tellus semper. Suspendisse est turpis, pretium hendrerit blandit eget, ullamcorper ut felis. Morbi ligula libero, malesuada et hendrerit eget, ornare sit amet nunc. Proin leo sem, congue id maximus sed, volutpat non lacus. Donec id aliquam ipsum. Vivamus at metus nec massa ornare lobortis. Phasellus quis rutrum nisi, a tempor turpis. Sed varius finibus ex at laoreet. Proin vestibulum vulputate sodales. Donec euismod ex quis vehicula molestie. Pellentesque accumsan mi interdum placerat gravida.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt leo quis turpis sagittis vestibulum vel ut neque. Fusce eu condimentum justo. Aenean vitae efficitur orci. Praesent erat mi, malesuada vel metus vitae, viverra condimentum dui. Quisque ultrices justo vel porttitor rutrum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam erat volutpat. Nunc libero lectus, feugiat vel elementum sit amet, porta vitae arcu. Donec mollis nec augue vitae suscipit. Fusce posuere pretium dui, nec tincidunt urna efficitur et. Nam fermentum ut est quis egestas. Nullam nec euismod lorem, at pretium lectus. Vestibulum cursus, urna ac fermentum cursus, mi tellus mollis quam, eu posuere felis elit sit amet odio. Praesent tristique metus eget nisl pellentesque. Maecenas dictum elit justo, eget placerat mauris lacinia eu. Suspendisse potenti. Donec eu magna luctus, bibendum leo at, placerat libero. Integer commodo justo dolor, sit amet semper diam vehicula sed. Cras eget augue eget felis tempus dignissim sit amet at turpis. Pellentesque imperdiet nunc vitae commodo vulputate. Curabitur vel nibh tempor, elementum justo nec, feugiat risus. Vestibulum luctus, risus nec fermentum mattis, arcu elit imperdiet arcu, vel porttitor diam nulla non odio. Curabitur hendrerit rutrum enim, in malesuada lorem fringilla eu. Proin eu euismod velit. Fusce id laoreet libero, in varius leo. Donec augue lorem, auctor at ipsum a, viverra ornare dolor. Integer eu enim pellentesque, fringilla diam vel, tempus ligula. Fusce vestibulum id neque id condimentum. Mauris consequat fermentum facilisis. Praesent ultrices suscipit nulla, ut pellentesque libero faucibus non.ellentesque vel lorem vel ante aliquam sodales. Donec consequat hendrerit eleifend. Maecenas mattis eget nunc et dignissim. Donec nec sollicitudin nunc, id pharetra nisi. Nam nisi quam, vestibulum in tempus sit amet, accumsan in nisi. Suspendisse sit amet dui quam. Nulla lacinia augue rhoncus ex mollis, in venenatis dui posuere. Sed efficitur nibh orci. Aenean sit amet nulla id sem sollicitudin euismod. Duis tincidunt, neque eu mattis viverra, lacus tortor interdum diam, et mattis dolor metus bibendum neque. Fusce tristique lorem purus. In at sapien blandit, accumsan erat nec, accumsan nulla. Nam vitae lacus ultricies, lobortis arcu nec, molestie tortor. Suspendisse bibendum pellentesque tellus, sit amet ultricies quam tempor quis. Quisque convallis mauris non scelerisque mollis. Aliquam pretium, justo sed bibendum convallis, tellus nisl porta tellus, feugiat molestie massa risus quis leo. Phasellus ut molestie lectus. In tellus massa, volutpat ut risus vitae, porttitor consectetur arcu. Praesent porttitor ullamcorper bibendum. Curabitur vel finibus ex. Nam pretium nisl magna.</string>
+
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_bnv">Home</string>
+    <string name="files_bnv">Files</string>
+    <string name="contacts_bnv">Contacts</string>
+    <string name="profile_bnv">Profile</string>
+    <string name="send_location_TvToolbar">Send location</string>
+    <string name="select_contact_tv">Select contact</string>
+    <string name="notifications_Tb">Notifications</string>
+    <string name="profile_Tb">Profile</string>
+    <string name="current_location">Current Location</string>
+    <string name="name">Name</string>
+    <string name="i_feel_unsure">I feel unsure</string>
+    <string name="location_tracking">Location tracking</string>
+    <string name="i_feel_a_bit_scared">I feel a bit scared</string>
+    <string name="audio_recording">Audio recording</string>
+    <string name="i_am_scared">I am scared</string>
+    <string name="audio_and_video_recording">Audio and video recording</string>
+    <string name="i_am_very_scared">I am very scared</string>
+    <string name="talk_to_a_human">Talk to a human</string>
+    <string name="toast_image_intent_null">Image picker option is missing!</string>
+    <string name="lbl_set_profile_photo">Set profile image</string>
+    <string name="lbl_take_camera_picture">Take a picture</string>
+    <string name="lbl_choose_from_gallery">Choose from gallery</string>
+    <string name="dialog_permission_title">Grant Permissions</string>
+    <string name="dialog_permission_message">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="go_to_settings">GOTO SETTINGS</string>
+    <string name="error">Something went wrong</string>
+</resources>

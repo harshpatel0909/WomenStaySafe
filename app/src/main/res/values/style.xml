@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+
+        <item name="itemTextAppearanceActive">@style/ActiveText</item>
+        <item name="itemTextAppearanceInactive">@style/InactiveText</item>
+    </style>
+
+    <style name="ActiveText">
+        <item name="android:textColor">@color/Red</item>
+    </style>
+
+    <style name="InactiveText">
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+</resources>

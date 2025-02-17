@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Black"
+    tools:context=".Activities.AudioActivity">
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:id="@+id/AppBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/Toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Black"
+                android:minHeight="?attr/actionBarSize"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/IvBackAudio"
+                    android:layout_width="@dimen/_15sdp"
+                    android:layout_height="@dimen/_16sdp"
+                    android:contentDescription="@string/imageview"
+                    android:src="@drawable/back" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_7sdp"
+                    android:fontFamily="@font/regular"
+                    android:padding="@dimen/_5sdp"
+                    android:paddingStart="@dimen/_10sdp"
+                    android:text="Back"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_15sdp"
+                    tools:ignore="HardcodedText,RtlSymmetry" />
+            </androidx.appcompat.widget.Toolbar>
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:background="@color/Black"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/AppBar">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/c_layout_audio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/Black"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/AppBar"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/C_Layout_IVTV"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/black"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/c_layout_audio"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <ImageButton
+                        android:id="@+id/IvAudio"
+                        android:layout_width="@dimen/_220sdp"
+                        android:layout_height="@dimen/_220sdp"
+                        android:layout_marginTop="@dimen/_20sdp"
+                        android:background="@color/transparent"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/logo2"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        tools:ignore="ContentDescription" />
+
+                    <com.airbnb.lottie.LottieAnimationView
+                        android:id="@+id/lav_playing"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_80sdp"
+                        android:layout_marginTop="@dimen/_10sdp"
+                        android:visibility="gone"
+                        app:layout_constraintTop_toBottomOf="@id/IvAudio"
+                        app:lottie_loop="true"
+                        app:lottie_rawRes="@raw/audio"
+                        app:lottie_autoPlay="true"/>
+
+                    <ImageView
+                        android:id="@+id/AudioBg"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_80sdp"
+                        app:layout_constraintTop_toBottomOf="@id/IvAudio"
+                        android:src="@drawable/audiobg">
+
+                    </ImageView>
+
+                    <!--              <Chronometer
+                                      android:id="@+id/chronometer"
+                                      android:layout_width="match_parent"
+                                      android:layout_height="wrap_content"
+                                      android:fontFamily="@font/semibold"
+                                      android:gravity="center"
+                                      android:padding="@dimen/_20sdp"
+                                      android:textColor="@color/white"
+                                      android:textSize="@dimen/_25sdp"
+                                      app:layout_constraintEnd_toEndOf="parent"
+                                      app:layout_constraintStart_toStartOf="parent"
+                                      app:layout_constraintTop_toBottomOf="@+id/AudioBg" />-->
+
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="00:00"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/semibold"
+                        android:textSize="@dimen/_25sdp"
+                        android:padding="@dimen/_20sdp"
+                        android:gravity="center"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/AudioBg"
+                        android:textColor="@color/white"
+                        android:id="@+id/tv_time"
+                        tools:ignore="HardcodedText">
+
+                    </TextView>
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/C_Layout_IVTV">
+
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/ib_record"
+                        android:layout_width="@dimen/_100sdp"
+                        android:layout_height="@dimen/_100sdp"
+                        android:background="@android:color/transparent"
+                        android:src="@drawable/recording_in_active"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintHorizontal_bias="0.5"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toStartOf="@+id/ib_play"
+                        app:layout_constraintTop_toTopOf="parent">
+
+                    </androidx.appcompat.widget.AppCompatImageView>
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:layout_width="@dimen/_50sdp"
+                        android:layout_height="@dimen/_50sdp"
+                        android:id="@+id/ib_play"
+                        android:src="@drawable/recording_play"
+                        android:visibility="gone"
+                        android:background="@android:color/transparent"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.5"
+                        app:layout_constraintStart_toEndOf="@+id/ib_record"
+                        app:layout_constraintTop_toTopOf="parent"/>
+
+
+
+                    <!--         <androidx.appcompat.widget.AppCompatImageView
+                                 android:id="@+id/BtnAudioCancel"
+                                 android:layout_width="@dimen/_40sdp"
+                                 android:layout_height="@dimen/_40sdp"
+                                 android:src="@drawable/cancel2"
+                                 app:layout_constraintBottom_toBottomOf="parent"
+                                 app:layout_constraintEnd_toStartOf="@+id/btnTogglePausePlay"
+                                 app:layout_constraintHorizontal_bias="0.5"
+                                 app:layout_constraintStart_toStartOf="parent"
+                                 app:layout_constraintTop_toTopOf="parent" />
+
+                             <ToggleButton
+                                 android:id="@+id/btnTogglePausePlay"
+                                 android:layout_width="@dimen/_50sdp"
+                                 android:layout_height="@dimen/_50sdp"
+                                 android:background="@drawable/start_pause_btn"
+                                 app:layout_constraintBottom_toBottomOf="parent"
+                                 app:layout_constraintEnd_toStartOf="@+id/ivBtnReset"
+                                 app:layout_constraintHorizontal_bias="0.5"
+                                 app:layout_constraintStart_toEndOf="@+id/BtnAudioCancel"
+                                 app:layout_constraintTop_toTopOf="parent" />
+
+                             <androidx.appcompat.widget.AppCompatImageView
+                                 android:id="@+id/ivBtnReset"
+                                 android:layout_width="@dimen/_40sdp"
+                                 android:layout_height="@dimen/_40sdp"
+                                 android:clickable="true"
+                                 android:focusable="true"
+                                 android:src="@drawable/stop"
+                                 app:layout_constraintBottom_toBottomOf="parent"
+                                 app:layout_constraintEnd_toEndOf="parent"
+                                 app:layout_constraintHorizontal_bias="0.5"
+                                 app:layout_constraintStart_toEndOf="@+id/btnTogglePausePlay"
+                                 app:layout_constraintTop_toTopOf="parent" />-->
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

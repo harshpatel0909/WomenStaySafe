@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+<!--    <external-cache-path
+        name="cache"
+        path="camera" />-->
+
+    <external-path
+        name="videos"
+        path="Android/data/com.example.savehome/files/Videos"/>
+
+<!--    <external-path
+        name="Images"
+        path="Android/data/com.example.galleryApp/files/Images"/>-->
+</paths>
